@@ -1,0 +1,9 @@
+./.venv/*
+./venv/*
+.ENV
+venv
+.venv
+venv.zip
+*.pyc
+__pycache__
+*/__pycache__/*
